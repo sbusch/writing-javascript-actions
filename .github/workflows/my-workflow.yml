@@ -1,7 +1,6 @@
 name: JS Actions
 
-on:
-  push: [push]
+on: [push]
 
 jobs:
   action:
